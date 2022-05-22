@@ -10,10 +10,10 @@ When I performed the EDA I found out that there are some certain features that c
 
 Also Another Feature I will want to talk about is the Packed Cell volume (measurement of the proportion of blood that is made up of cells contributed also to a person having a chronic disease. I.e a person who is short of blood have tendency of having a chronic kodney disease. 
 
-There a lot of insights from the dataset and there are couple of features also that contributed that i wont be talking about. But this visualization helps to to know more and you can also check my code to learn more. Thanks.
+There a lot of insights from the dataset and there are couple of features also that contributed that i wont be talking about. But the visualization in the dataset helps to to know more and you can also check my code to learn more. Thanks.
 
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xuucaix2itf0zmc2j75b.png)
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wiexlmedcwli940pw77r.png)
 
 Minus means has the feature reduces in value a person has chances of having CKD. E.g is haemoglobin (As the level of haemoglobin reduces a person has high chances of having CKD)
 
