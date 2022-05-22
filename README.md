@@ -1,5 +1,5 @@
 # Chronic-Kidney-Disease-CKD-Prediction
-Build an algorithm that will predict whether a patient will have CKD based on the features in the dataset
+Built an algorithm that will predict whether a patient will have CKD based on the features in the dataset
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wtzn7xowhx64yudx4g6u.jpg)
 
