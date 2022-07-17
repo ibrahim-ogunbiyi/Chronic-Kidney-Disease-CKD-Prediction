@@ -1,6 +1,4 @@
 import pickle
-from sklearn.cluster import affinity_propagation
-from sklearn.ensemble import RandomForestClassifier
 import streamlit as st
 st.title("Chronic Kidney Disease (CKD) Prediction")
 st.sidebar.header("CKD Features")
